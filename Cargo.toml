@@ -53,3 +53,7 @@ path = "examples/platformer/main.rs"
 [[example]]
 name = "field_instances"
 path = "examples/field_instances/main.rs"
+
+[[example]]
+name = "collectathon"
+path = "examples/collectathon/main.rs"
